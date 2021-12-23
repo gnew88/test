@@ -1,3 +1,4 @@
 #include<iostream> 
 using namespace std;
-sss
+
+int main(void)
